@@ -13,7 +13,7 @@ Here are the requirements:
     - Special characters ($@%&*, etc.)
 - Code should validate for each input and at least one character type should be selected.
 - Once all prompts are answered, the password should be generated and displayed in an alert or written to the page.
-<br>
+![screenshot](https://github.com/IgorTraspadini/Password-generator-ICT/assets/126266157/c7c38e2c-f34e-4d1a-b18e-b22e6c90285e)
 
 ## Language
 - HTML5
